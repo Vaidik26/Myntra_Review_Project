@@ -10,7 +10,7 @@ The primary objective of this project is to automate the process of extracting c
 
 Check out the video demonstration of this project on LinkedIn:
 
-Myntra Product Review Scraper & Analyzer - Project Video
+https://www.linkedin.com/posts/vaidik-yadav-260a60248_dataanalysis-webscraping-python-activity-7265666461921128448-LOqX?utm_source=share&utm_medium=member_desktop
 
 ## 📂 Data Details
 
