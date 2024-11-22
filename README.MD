@@ -96,9 +96,3 @@ This project is licensed under the MIT License.
 For any questions or suggestions, feel free to reach out:
 
 Email: vaidiky90@gmail.com
-
-Stored high-volume review data in MongoDB, ensuring efficient data management and scalability.
-Conducted data analysis using Python and pandas to identify customer sentiment trends and generate actionable insights.
-Visualized insights through Jupyter notebooks, enabling improved understanding of customer feedback and review patterns.
-Designed modular and reusable code architecture, enhancing maintainability and scalability for future extensions.
-GitHub Repository: Myntra Review Project
