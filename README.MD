@@ -97,45 +97,6 @@ For any questions or suggestions, feel free to reach out:
 
 Email: vaidiky90@gmail.com
 
-Feel free to tweak this as per your exact requirements!
-
-
-
-
-
-
-You said:
-
-Create description for resume like the photo I attached and make sure it is ats friendly
-ChatGPT said:
-ChatGPT
-Here’s an ATS-friendly resume description for your Myntra scraping and analysis project, modeled after the style in the provided image:
-
-Myntra Product Review Scraper and Analyzer
-
-Designed and implemented a web scraping tool using Selenium to extract customer reviews, ratings, and product details from Myntra's e-commerce platform.
-Automated the data collection process, reducing manual effort by 80% and enabling real-time review extraction.
-Utilized MongoDB for efficient storage and management of high-volume review data, ensuring scalability and easy retrieval.
-Conducted data analysis using pandas and Python to uncover customer sentiment trends and actionable insights, improving decision-making processes.
-Developed Jupyter notebooks and visualizations for detailed exploratory data analysis, enhancing understanding of customer feedback.
-Created modular and reusable code architecture, improving project maintainability and scalability for future enhancements.
-GitHub Repository: Myntra Review Project
-This description highlights key technical skills, achievements, and tools, making it ATS-friendly while showcasing your contributions effectively.
-
-
-
-
-
-
-You said:
-Make it in 5-6 points only
-ChatGPT said:
-ChatGPT
-Here’s a concise and ATS-friendly version in 5-6 points:
-
-Myntra Product Review Scraper and Analyzer
-
-Built a web scraping tool using Selenium to extract product reviews, ratings, and details from Myntra, automating data collection and reducing manual effort by 80%.
 Stored high-volume review data in MongoDB, ensuring efficient data management and scalability.
 Conducted data analysis using Python and pandas to identify customer sentiment trends and generate actionable insights.
 Visualized insights through Jupyter notebooks, enabling improved understanding of customer feedback and review patterns.
