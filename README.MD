@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Ensure MongoDB is installed and running on your local machine or server.
 Configure the connection details in the code.
 
-## 5. Run the Scraper:
+# 5. Run the Scraper:
 
 Use the provided scripts to extract and analyze reviews:
 
