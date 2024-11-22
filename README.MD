@@ -6,6 +6,12 @@ A Python-based project that scrapes reviews from Myntra, stores the data in Mong
 
 The primary objective of this project is to automate the process of extracting customer reviews from Myntra's website and analyzing the data to identify trends, sentiments, and potential areas for improvement.
 
+## 📽️ Project Demo
+
+Check out the video demonstration of this project on LinkedIn:
+
+Myntra Product Review Scraper & Analyzer - Project Video
+
 ## 📂 Data Details
 
 The project extracts the following details for each product review:
